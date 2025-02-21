@@ -11,10 +11,10 @@
 </script>
 
 <section class="py-16">
-  <div class="flex flex-row md:flex-col">
-    <h2 class="text-5xl mb-8 text-dark">Study Silato</h2>
-    <div class="grid gap-8">
-      <div class="w-fit">
+  <div class="container flex flex-col md:flex-row gap-10">
+    <h2 class="text-5xl mb-8 text-dark w-fit">Study Silato</h2>
+    <div class="grid gap-8 w-fit">
+      <div>
         <h3 class="text-3xl mb-4 text-dark">Services offered</h3>
         <p class="text-gray-700">Studio Silato is active in the field of electrical design in several areas, including:</p>
         <ul class="mt-6">
