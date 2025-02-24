@@ -8,13 +8,14 @@
     "build": "vite build",
     "preview": "vite preview",
     "check": "svelte-check --tsconfig ./tsconfig.json && tsc -p tsconfig.node.json",
-    "predeploy": "npm run build",
+    "predeploy": "VITE_BASE=/automation-template/ npm run build",
     "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
     "@sveltejs/adapter-static": "^3.0.8",
     "@sveltejs/vite-plugin-svelte": "^3.1.2",
     "@tsconfig/svelte": "^5.0.4",
+    "@types/node": "^22.13.5",
     "autoprefixer": "^10.4.17",
     "gh-pages": "^6.3.0",
     "postcss": "^8.4.35",
