@@ -5,7 +5,7 @@
       alt: "Technical Drawing"
     },
     {
-      src: "https://images.unsplash.com/photo-1631083215251-98e1bfa3e19e?auto=format&fit=crop&q=80&w=1974&ixlib=rb-4.0.3",
+      src: "https://images.unsplash.com/photo-1558054665-fbe00cd7d920?auto=format&fit=crop&q=80&w=1974&ixlib=rb-4.0.3",
       alt: "Control Panel"
     },
     {

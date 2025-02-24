@@ -10,9 +10,9 @@
   ];
 </script>
 
-<section class="py-16">
+<section class="py-8 md:py-16">
   <div class="container flex flex-col md:flex-row gap-10">
-    <h2 class="text-5xl mb-8 text-dark w-fit">Study Silato</h2>
+    <h2 class="text-5xl font-bold mb-8 text-dark w-fit">Study Silato</h2>
     <div class="grid gap-8 w-fit">
       <div>
         <h3 class="text-3xl mb-4 text-dark">Services offered</h3>

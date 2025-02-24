@@ -1,10 +1,10 @@
 <script lang="ts">
 </script>
 
-<header class="fixed top-0 w-full bg-white shadow-md z-[1000] py-4">
+<header class="top-0 w-full bg-white shadow-md z-[1000] py-4">
   <div class="container">
-    <nav class="flex justify-between items-center">
-      <div class="flex items-center gap-4">
+    <nav class="flex flex-col md:flex-row justify-between items-center gap-5">
+      <div class="flex items-center gap-4 max-w-[calc(100% - 100px)] md:max-w-full">
         <img
           src="https://imagecdn.spazioweb.it/b4/49/b4494608-8550-4fc6-a529-79fe9b81ecf1.png"
           alt="logo"
