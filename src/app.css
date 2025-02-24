@@ -15,7 +15,7 @@
   }
 
   .btn {
-    @apply px-6 py-3 border border-primary text-primary no-underline rounded transition-all uppercase text-sm tracking-wider hover:bg-primary hover:text-white text-center;
+    @apply px-6 py-3 border border-primary text-primary no-underline rounded transition-all uppercase text-sm tracking-wider hover:bg-primary hover:text-black text-center;
   }
 
   .wave-divider {
